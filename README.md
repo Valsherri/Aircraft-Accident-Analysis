@@ -18,5 +18,5 @@ We will use clustering techniques like KMeans to group similar accidents, allowi
 ### Goal
 The goal is to reveal patterns in aviation accidents and provide recommendations to enhance safety. By integrating EDA with clustering techniques, we aim to significantly contribute to aviation safety efforts.
 
-
-
+Tableau Dashboard
+https://public.tableau.com/app/profile/valentine.gacheri/viz/Project_17324792995110/Dashboard1?publish=yes
